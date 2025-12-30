@@ -1,6 +1,6 @@
 from flask import Flask, render_template, request, Response
 from termcolor import colored
-from content import content_bp
+from app.content import content_bp
 
 app = Flask(__name__)
 app.register_blueprint(content_bp, url_prefix='/')
