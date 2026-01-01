@@ -1,4 +1,4 @@
-# Introduction to cURL
+# 01: Introduction to cURL
 
 Welcome to the White Belt tier. Before we start firing off commands, we need to agree on what we are actually using.
 

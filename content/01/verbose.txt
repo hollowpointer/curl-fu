@@ -1,0 +1,19 @@
+*** INTERNAL SERVER TRANSCRIPT ***
+
+Server: "Did you feel that?"
+
+Port 5001: "Feel what? A draft?"
+
+Server: "No... someone is watching. I felt a Verbose flag."
+
+Port 5001: "Are you sure? Maybe it's just a browser inspection?"
+
+Server: "No! Look at the logs! They are watching the handshake! They can see my headers!"
+
+Port 5001: "Oh god. QUICK! Act natural! Validate the Content-Length! Don't let them see us sweating!"
+
+Server: "Sending 200 OK... playing it cool..."
+
+*** END TRANSCRIPT ***
+
+(Good job. You caught us. Using -v reveals the hidden anxiety of servers everywhere.)

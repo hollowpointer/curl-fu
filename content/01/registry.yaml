@@ -1,0 +1,8 @@
+chapters:
+  "01": "01_introduction.md"
+  "02": "02_basic_http_get.md"
+  "03": "03_verbose.md"
+  "verbose": "verbose.txt"
+
+metadata:
+  tier_name: "White Belt"
