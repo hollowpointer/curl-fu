@@ -17,7 +17,7 @@ If you ever get stuck, your first instinct should be: make it verbose.
 Run the command with the verbose flag to see the handshake in action:
 
 ```bash
-curl -v http://localhost:5001/01/verbose
+curl -v http://{{address}}/verbose.txt
 
 ```
 

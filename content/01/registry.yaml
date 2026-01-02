@@ -2,7 +2,11 @@ chapters:
   "01": "01_introduction.md"
   "02": "02_basic_http_get.md"
   "03": "03_verbose.md"
+  "04": "04_http_headers.md"
+  "05": "05_output_redirection.md"
   "verbose": "verbose.txt"
+  "headers": "headers.txt"
+  "image": "save_me.jpg"
 
 metadata:
   tier_name: "White Belt"

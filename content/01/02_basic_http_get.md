@@ -13,7 +13,7 @@ Because fetching data is the most common task, curl uses GET as its default beha
 You (hopefully) have been using the GET request with curl simply by typing:
 
 ```bash
-curl http://localhost:5001/01/02
+curl http://{{address}}/01/02
 
 ```
 

@@ -2,7 +2,7 @@ from flask import Flask, render_template, request, Response
 from termcolor import colored
 from app.content import content_bp
 
-app = Flask(__name__)
+app = Flask(__name__, static_url_path='')
 app.register_blueprint(content_bp, url_prefix='/')
 
 @app.route('/')
